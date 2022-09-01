@@ -3,7 +3,9 @@ A simple game to test the skills of a new future programmer while conducting an 
 
 The command for this assignment is:
 
-"Write a program that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”."
+    Write a program that prints the numbers from 1 to 100.
+    But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. 
+    For numbers which are multiples of both three and five print “FizzBuzz”."
 
 ### Installing
 
