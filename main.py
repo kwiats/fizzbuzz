@@ -27,7 +27,12 @@ def show_results(func: dict):
 
 
 if __name__ == "__main__":
-    range_from = int(sys.argv[0])
-    range_to = int(sys.argv[1])
+    range_from = 1
+    range_to = 101
+
+    if (len(sys.argv) > 1):
+        range_from = int(sys.argv[1])
+        range_to = int(sys.argv[2])
+
     show_results(fizzbuzz(range_from,
                           range_to))
